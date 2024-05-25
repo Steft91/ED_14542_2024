@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1716180433 source:c:\3er semestre\ed extras\sobrecargadeoperador\main.cpp
+	<iostream>
+	"Punto.h"
+
+1716179356 c:\3er semestre\ed extras\sobrecargadeoperador\punto.h
+	"Comparable.h"
+
+1716180614 c:\3er semestre\ed extras\sobrecargadeoperador\comparable.h
+
